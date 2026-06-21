@@ -33,7 +33,10 @@ export default function App() {
           <div>Secure and controlled information system</div>
         </div>
 
-        <a href="./public/Official-Mori-Release-V1.0.apk" download className="btn">
+        <a
+          href="https://github.com/ShikoShintaro/MoriAI/releases/download/v1.0.0-ph-capstone/Official-Mori-Release-v1.0.apk"
+          className="btn"
+        >
           Download APK
         </a>
       </div>
